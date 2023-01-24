@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @reydanez
 - 👀 I’m interested in everything web3 related including, blockchain, DeFi, and decentralized applications.
-- 🌱 I’m currently learning Solidity, ReactJS, python, and any technologies in the web3 space 
+- 🌱 I’m currently learning Solidity, ReactJS, Python, and any technologies in the web3 space 
 - 💼 I’m looking to collaborate on anything to push forward the world of web3 and the future of internet communication, information exchange, and finance.
